@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emile Bondzie-Arthur</h1>
-<h3 align="center">A Business & Systems Analyst at Fido MicroCredit Limited in Accra, Ghana. Love Data and working with Data.</h3>
+<h3 align="center">A B&SA at Fido MicroCredit Limited in Accra, Ghana. Love Data and working with Data.</h3>
 
 - 🌱 I’m currently learning **PyTorch & Deep Learning & More python**
 
