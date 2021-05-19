@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Emile Bondzie-Arthur</h1>
 <h3 align="center">A B&SA at Fido MicroCredit Limited in Accra, Ghana. Love Data and working with Data.</h3>
 
-- 🌱 I’m currently learning **PyTorch & Deep Learning & More python**
+- 🌱 I currently do Product Management and Business & Systems Analysis stuff [@fidocredit](https://twitter.com/fidocredit).
+- Learning to build product (Backend Dev.) myself with [FastAPI](https://fastapi.tiangolo.com/) and I love building ML & DL stuff with [fastdotai](https://fast.ai) & [PyTorch](https://pytorch.org).
 
-- 👨‍💻 All of my projects are available at [https://emilearthur.github.io/](https://emilearthur.github.io/)
 
-- 📫 How to reach me **frederickauthur@hotmail.com**
+- 👨‍💻 All of my projects are available at [https://emilearthur.github.io/](https://emilearthur.github.io/) or [https://emilearthur.github.io/fastblog](https://emilearthur.github.io/fastblog).
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilearthur&layout=compact&hide=html" alt="emilearthur" /></p>
+- 📫 Reach me @ **frederickauthur@hotmail.com**
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emilearthur&show_icons=true" alt="emilearthur" /></p>
 
