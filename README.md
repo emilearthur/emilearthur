@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emile Bondzie-Arthur</h1>
 <h3 align="center">A B&SA at Fido MicroCredit Limited in Accra, Ghana. Love Data and working with Data.</h3>
 
-- 🌱 I currently do Product Management and Business & Systems Analysis stuff [@fidocredit](https://twitter.com/fidocredit).
+- 🌱 I currently do Data Engineering stuff [@fidocredit](https://twitter.com/fidocredit).
 - Learning to build product (Backend Dev.) myself with [FastAPI](https://fastapi.tiangolo.com/) and I love building ML & DL stuff with [fastdotai](https://fast.ai) & [PyTorch](https://pytorch.org).
 
 
